@@ -1,0 +1,9 @@
+mastodon/postgres14 
+mastodon/public
+mastodon/redis
+mastodon/.env.production
+
+vaultwarden/vw-data
+
+nginx/data
+nginx/letsencrypt
